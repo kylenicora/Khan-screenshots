@@ -1,0 +1,8 @@
+go on to nodejs.org instal node 5.6 
+extract node.tar.xz
+make sure you're su Change current directory to node-v5.6.0-linux-x64/ 
+uninstall current version of nodejs 
+yum remove nodejs
+ Change current directory to node-v5.6.0-linux-x64/
+#cd /home/user/Download/node-v5.6.0-linux-x64/
+cp -fR * /usr/local/ 
